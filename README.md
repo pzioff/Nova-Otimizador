@@ -1,6 +1,5 @@
 ========================================================
-PROJECT NOVA 2026 — ULTIMATE PERFORMANCE (PowerShell)
-LEIA-ME / INFORMAÇÕES DO OTIMIZADOR
+PROJECT NOVA 2026 — OTIMIZADOR
 ========================================================
 Versão: [1.0]
 Autor/Créditos: @naos0uele
